@@ -1,0 +1,12 @@
+D:\Subjects\LT_Window\Exercise\BTL_QL-KTX\bin\Debug\BTL_QL-KTX.exe.config
+D:\Subjects\LT_Window\Exercise\BTL_QL-KTX\bin\Debug\BTL_QL-KTX.exe
+D:\Subjects\LT_Window\Exercise\BTL_QL-KTX\bin\Debug\BTL_QL-KTX.pdb
+D:\Subjects\LT_Window\Exercise\BTL_QL-KTX\obj\Debug\BTL_QL-KTX.csproj.AssemblyReference.cache
+D:\Subjects\LT_Window\Exercise\BTL_QL-KTX\obj\Debug\BTL_QL-KTX.csproj.SuggestedBindingRedirects.cache
+D:\Subjects\LT_Window\Exercise\BTL_QL-KTX\obj\Debug\BTL_QL_KTX.Properties.Resources.resources
+D:\Subjects\LT_Window\Exercise\BTL_QL-KTX\obj\Debug\BTL_QL-KTX.csproj.GenerateResource.cache
+D:\Subjects\LT_Window\Exercise\BTL_QL-KTX\obj\Debug\BTL_QL-KTX.csproj.CoreCompileInputs.cache
+D:\Subjects\LT_Window\Exercise\BTL_QL-KTX\obj\Debug\BTL_QL-KTX.exe
+D:\Subjects\LT_Window\Exercise\BTL_QL-KTX\obj\Debug\BTL_QL-KTX.pdb
+D:\Subjects\LT_Window\Exercise\BTL_QL-KTX\obj\Debug\BTL_QL_KTX.frmDangNhap.resources
+D:\Subjects\LT_Window\Exercise\BTL_QL-KTX\obj\Debug\BTL_QL_KTX.frmTrangChu.resources
